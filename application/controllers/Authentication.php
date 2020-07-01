@@ -9,7 +9,9 @@ class Authentication extends Base{
 		$items = $this->base_model->get_items($id);
 
 	}
+
 	public function getDetails(){
+
 
 	}
 
